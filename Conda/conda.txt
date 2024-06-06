@@ -1,0 +1,10 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/linux-64/asn1crypto-0.24.0-py37_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/ca-certificates-2019.1.23-0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/certifi-2019.3.9-py37_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/cryptography-2.4.2-py37h1ba5d50_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libedit-3.1.20181209-hc058e9b_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/openssl-1.1.1b-h7b6447c_1.conda

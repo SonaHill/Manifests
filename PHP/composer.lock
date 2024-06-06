@@ -1,0 +1,27 @@
+{
+  "hash": "8ca6b6b80bab36b5287b4292abee988f",
+  "packages": [
+    {
+      "name": "bower-asset/bootstrap",
+      "version": "v3.2.0",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/twbs/bootstrap.git",
+        "reference": "c068162161154a4b85110ea1e7dd3d7897ce2b72"
+      }
+    },
+        {
+      "name": "bower-asset/jquery",
+      "version": "2.1.1",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/jquery/jquery.git",
+        "reference": "4dec426aa2a6cbabb1b064319ba7c272d594a688"
+      }
+    },
+    {
+      "name": "components/jqueryui",
+      "version": "1.11.4"
+    }
+  ]
+}

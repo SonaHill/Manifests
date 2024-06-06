@@ -1,0 +1,16 @@
+{
+    "requires": true,
+    "lockfileVersion": 1,
+    "dependencies": {
+        "ansi-regex": {
+            "version": "3.0.0",
+            "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-3.0.0.tgz",
+            "integrity": "sha1-7QMXwyIGT3lGbAKWa922Bas32Zg="
+        },
+        "wordwrap": {
+            "version": "0.0.3",
+            "resolved": "https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.3.tgz",
+            "integrity": "sha1-o9XabNXAvAAI03I0u68b7WMFkQc="
+        }
+    }
+}

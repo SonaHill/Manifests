@@ -1,0 +1,5 @@
+[requires]
+      apache-apr/0.9.1@jgsogo/stable
+
+[build_requires]
+      libxml2/2.9.8@bincrafters/stable

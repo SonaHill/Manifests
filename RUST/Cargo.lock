@@ -1,0 +1,11 @@
+[[package]]
+name = "core-nightly"
+version = "1.26.2"
+
+[[package]]
+name = "grin"
+version = "1.0.0"
+
+[[package]]
+name = "protobuf"
+version = "2.5.0"

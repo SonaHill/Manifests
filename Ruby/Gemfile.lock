@@ -1,0 +1,15 @@
+GIT
+  remote: https://github.com/phatworx/devise_security_extension.git
+  specs:
+    devise_security_extension (0.10.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    actionmailer (5.0.7.2)
+      actionpack (= 5.0.7.2)
+
+PATH
+  remote: ../some_path
+  specs:
+    jquery (0.0.1)
